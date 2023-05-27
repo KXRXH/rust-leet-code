@@ -8,10 +8,26 @@ mod plus_one;
 mod pow;
 mod reverse_int;
 mod sqrt;
+mod duplicate_zeroes;
+mod substr_repeat;
 
 mod main {
     macro_rules! init {
         () => {
+            pub struct ListNode {
+                pub val: i32,
+                pub next: Option<Box<ListNode>>,
+            }
+
+            impl ListNode {
+                #[inline]
+                fn new(val: i32) -> Self {
+                    ListNode {
+                        next: None,
+                        val,
+                    }
+                }
+            }
             struct Solution;
         };
     }

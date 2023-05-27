@@ -11,3 +11,6 @@
 - [Pow](/src/pow.rs)
 - [Merge Sorted Arrays](/src/merge_sorted_arr.rs)
 - [1 Bit count](/src/bit1count.rs)
+- [Duplicates II](/src/duplicate_2.rs)
+- [Duplicate Zeroes](/src/duplicate_zeroes.rs)
+- [Substring Without Repeating](/src/substr_repeat.rs)
