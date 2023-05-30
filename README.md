@@ -14,3 +14,7 @@
 - [Duplicates II](/src/duplicate_2.rs)
 - [Duplicate Zeroes](/src/duplicate_zeroes.rs)
 - [Substring Without Repeating](/src/substr_repeat.rs)
+- [Single number](/src/single_number.rs)
+- [Parentheses](/src/parentheses.rs)
+- [Largest Digit](/src/largest_digit.rs)
+- [Palindrome String](/src/palindrom_str.rs)

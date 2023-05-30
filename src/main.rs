@@ -10,6 +10,10 @@ mod reverse_int;
 mod sqrt;
 mod duplicate_zeroes;
 mod substr_repeat;
+mod palindrom_str;
+mod parentheses;
+mod single_number;
+mod largest_digit;
 
 mod main {
     macro_rules! init {
@@ -35,5 +39,4 @@ mod main {
 }
 
 fn main() {
-    println!("Hello, world!");
 }
